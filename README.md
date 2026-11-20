@@ -23,13 +23,16 @@
 ## 🖼️ Визуализация и логика расчетов
 
 **1. Прозрачная логика расчетов (Влияющие ячейки)**
-<img width="1439" height="761" alt="1  Cell Dependencies" src="https://github.com/user-attachments/assets/ac1ac018-9889-4c08-9a85-4670bfb2db5e" />
+<img width="1439" height="761" alt="1  Cell Dependencies" src="https://github.com/user-attachments/assets/5ee49f9d-d218-41f4-a716-26e5d8ad8c4a" />
+
 *В Excel-файле сохранена прозрачная структура зависимостей ячеек (Trace Precedents). Все коэффициенты динамически привязаны к исходным формам отчетности.*
 
 **2. Динамика ключевых финансовых показателей**
-<img width="3000" height="1800" alt="3  revenue_dynamics" src="https://github.com/user-attachments/assets/d7a69e99-a1c7-4ffd-8842-017011b89c74" />
+<img width="3000" height="1800" alt="3  revenue_dynamics" src="https://github.com/user-attachments/assets/da3ea8eb-c183-4c75-bee2-f757c794b387" />
+
 *График демонстрирует переход компании от убытка 2022 года к восстановлению прибыльности в 2023 году.*
 
 **3. Анализ эффективности трудовых ресурсов**
-<img width="2668" height="1840" alt="4 labor_dynamics" src="https://github.com/user-attachments/assets/f91244ce-f4bf-4814-99f1-cf9637ee6997" />
+<img width="2668" height="1840" alt="4 labor_dynamics" src="https://github.com/user-attachments/assets/b977dd1c-1e03-49ec-97ef-0db60ecf5215" />
+
 *Выявлен разрыв между темпами роста фонда оплаты труда и реальной производительностью.*
